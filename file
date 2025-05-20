@@ -1,3 +1,4 @@
 line 1 from master
+LINE 2 from feature
 line 2 from master // the conflict is in this line
 line 3 from master
