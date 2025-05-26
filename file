@@ -4,6 +4,3 @@ LINE 2 from feature after creating feature1
 line 2 from master // the conflict is in this line
 LINE from new branch
 Last line from master
-
-
-A new line added to file from new branch.
